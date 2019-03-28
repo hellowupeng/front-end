@@ -7,3 +7,5 @@
 [Webpack wikipedia](https://en.wikipedia.org/wiki/Webpack)
 ## TCP
 [传输控制协议 维基百科](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE)
+
+[Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
