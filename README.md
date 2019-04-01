@@ -11,3 +11,5 @@
 [Transmission Control Protocol (wikipedia)](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 ## 数据结构
 ## 算法
+### 排序
+[冒泡排序](https://github.com/hellowupeng/front-end/blob/master/source/algorithm/sort/bubble_sort/bubble.ts)
